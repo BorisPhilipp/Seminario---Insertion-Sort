@@ -1,5 +1,4 @@
 # Seminário - Insertion-Sort
 ## Código de nosso Trabalho sobre o Algorítmo Insertion Sort
 
-![heavy-kart](https://github.com/BorisPhilipp/Seminario---Insertion-Sort/assets/129879125/6b546bcb-d4a8-4479-92e1-b20ab3862a3d)
-
+![Sem título](https://github.com/BorisPhilipp/Seminario---Insertion-Sort/assets/129879125/30f9543c-4906-4af9-bba4-d096ea3d6a1b)
